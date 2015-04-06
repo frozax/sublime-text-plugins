@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Frozax: Create New GCJ",
+        "command": "create_new_gcj"
+    },
+    {
+        "caption": "Frozax: Teest",
+        "command": "find_in_files_no_selection"
+    }
+]
